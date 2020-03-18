@@ -1,0 +1,1 @@
+g++ -std=c++11 gllyap.cpp -o gllyap -lSDL2 -lGL -lGLEW -I/usr/include/SDL2
