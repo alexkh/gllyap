@@ -1,3 +1,5 @@
+//Original code by Ingo Quilez 2013 https://www.shadertoy.com/view/Mds3R8
+
 vec2 iResolution = vec2(1920, 1080);
 
 vec3 calc( in vec2 p )
